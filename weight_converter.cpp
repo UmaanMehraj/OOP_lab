@@ -1,4 +1,4 @@
-// Weight Converter: Convert weight between kilograms, pounds, and stones
+
 #include <iostream>
 using namespace std;
 

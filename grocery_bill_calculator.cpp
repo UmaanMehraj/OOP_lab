@@ -1,4 +1,4 @@
-// Grocery Bill Calculator: Calculate total bill including tax
+
 #include <iostream>
 using namespace std;
 

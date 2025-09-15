@@ -1,4 +1,4 @@
-// Simple Banking System Simulation
+
 #include <iostream>
 using namespace std;
 
