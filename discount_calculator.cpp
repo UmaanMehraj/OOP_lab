@@ -1,4 +1,4 @@
-// Discount Calculator based on Purchase Value
+
 #include <iostream>
 using namespace std;
 
@@ -7,7 +7,7 @@ int main() {
     cout << "Enter purchase value (Rs): ";
     cin >> purchase;
 
-    // Nested conditional operators for discount logic
+   
     discountRate = (purchase < 100) ? 0 :
                    (purchase <= 500) ? 0.10 :
                    (purchase <= 1000) ? 0.15 : 0.20;
