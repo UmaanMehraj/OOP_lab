@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
     int n;
-    double price, total = 0, tax_rate = 0.05;
+    double price, total = 0, tax_rate = 0.18;
     cout << "Enter number of items: ";
     cin >> n;
     for (int i = 1; i <= n; ++i) {
