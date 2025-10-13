@@ -12,5 +12,9 @@ int main(){
         sum_row_2 += matrix[1][i];
     }
 
+    for (int i = 0;i < 2; i++){
+        sum_col_1 += matrix[i][0];
+    }
+
     cout << "Sum of rows is: " << sum_row_1 << " " << sum_row_2 << endl;
 }
